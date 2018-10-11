@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1539187860 source:c:\users\web\desktop\x\sublistas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sub.h"
+
+1539183566 c:\users\web\desktop\x\sublistas\sub.h
+
+1539188624 source:c:\users\web\desktop\x\sublistas\sub.c
+	<stdio.h>
+	<stdlib.h>
+	"sub.h"
+
